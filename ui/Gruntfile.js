@@ -26,7 +26,8 @@ module.exports = function(grunt){
 			},
 			assetsCss: {
 				src: [
-					'assets/css/bootstrap.min.css'
+					'assets/css/bootstrap.min.css',
+					'assets/css/bootstrap-theme.min.css'
 				],
 				dest: 'public/assets-styles.css'
 			},
