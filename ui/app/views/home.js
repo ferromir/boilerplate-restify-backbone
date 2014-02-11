@@ -1,6 +1,6 @@
 App.Views.Home = Backbone.View.extend({
   el: 'body',
-  template: JST["app/templates/home.jst"],
+  template: JST['templates/home.jst'],
 
   render: function(){
     this.$el.html(this.template());
