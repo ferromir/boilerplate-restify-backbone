@@ -1,7 +1,6 @@
 {
-  "name": "bienesfacilescom-ui",
+  "name": "boilerplate-ui",
   "version": "0.0.0",
-  "private": true,
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
